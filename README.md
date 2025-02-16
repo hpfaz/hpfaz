@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hpfaz
 - 👀 I’m interested in embedded software development
-- 🌱 I’m currently learning the inner workings of LVGL, NucleusOS
+- 🌱 I’m currently going through the inner workings of LVGL, LLVM, FreeRTOS
 - 💞️ I’m looking to collaborate on anything useful and interesting
 - 📫 How to reach me ...
 
